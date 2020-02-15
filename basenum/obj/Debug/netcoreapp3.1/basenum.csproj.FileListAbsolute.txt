@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\basenum\bin\Debug\netcoreapp3.1\basenum.exe
+C:\Users\PC\source\repos\basenum\bin\Debug\netcoreapp3.1\basenum.deps.json
+C:\Users\PC\source\repos\basenum\bin\Debug\netcoreapp3.1\basenum.runtimeconfig.json
+C:\Users\PC\source\repos\basenum\bin\Debug\netcoreapp3.1\basenum.runtimeconfig.dev.json
+C:\Users\PC\source\repos\basenum\bin\Debug\netcoreapp3.1\basenum.dll
+C:\Users\PC\source\repos\basenum\bin\Debug\netcoreapp3.1\basenum.pdb
+C:\Users\PC\source\repos\basenum\obj\Debug\netcoreapp3.1\basenum.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\basenum\obj\Debug\netcoreapp3.1\basenum.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\basenum\obj\Debug\netcoreapp3.1\basenum.AssemblyInfo.cs
+C:\Users\PC\source\repos\basenum\obj\Debug\netcoreapp3.1\basenum.dll
+C:\Users\PC\source\repos\basenum\obj\Debug\netcoreapp3.1\basenum.pdb
